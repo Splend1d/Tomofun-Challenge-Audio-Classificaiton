@@ -5,6 +5,7 @@ This is a repository for our implementation of Tomofun 狗音辨識 AI 百萬挑
 We are team ADEE. Our ranking for the competition are : 
 
 Preliminary : 24 / 301 roc_auc : 0.9816 (First place : 0.9899)
+
 Final 8 / 25 roc_auc : 0.9419 (First place : 0.9605)
 
 ## Task Description
